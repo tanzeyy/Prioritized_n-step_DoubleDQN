@@ -11,20 +11,17 @@ PyTorch implementation of n-step double DQN with prioritized replay memory.
   - red: step = 5
   - blue: step = 10
 
-![image-20201116135106086](./img/image-20201116135106086.png)
+<img src="./imgs/image-20201116135106086.png" align="middle">
+<img src="./imgs/image-20201116135116360.png" align="middle">
+<img src="./imgs/image-20201116135124075.png" align="middle">
 
-![image-20201116135116360](./img/image-20201116135116360.png)
-
-![image-20201116135124075](./img/image-20201116135124075.png)
 
 - Acrobot-v1
   - n-step from up to bottom: 10, 5, 3, 1
 
-![image-20201116135332582](./img/image-20201116135332582.png)
-
-![image-20201116135344431](./img/image-20201116135344431.png)
-
-![image-20201116135354706](./img/image-20201116135354706.png)
+<img src="./imgs/image-20201116135332582.png" align="middle">
+<img src="./imgs/image-20201116135344431.png" align="middle">
+<img src="./imgs/image-20201116135354706.png" align="middle">
 
 
 ### Requirements
